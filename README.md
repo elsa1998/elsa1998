@@ -1,4 +1,4 @@
-👋<h2> Hi, I'm Elsa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi👋, I'm Elsa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 </em></p>
 
@@ -6,41 +6,31 @@
 [![GitHub elsa](https://img.shields.io/github/followers/elsa1998?label=follow&style=social)](https://github.com/elsa1998)
 
 <!--
-**elsa1998/elsa1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?elsa1998=anuraghazra&show_icons=true&theme=radical)
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🌱 I am passion about communication and solving business problems.
 
-- 🎓 &nbsp; Studying Business Analytics & Decision information at University of Minnesota.
+- 🎓 Master's degree in Business Analytics and Bachelor's degree in Statistics
 
-- 🌱 &nbsp; Learning about Predictive modeling, Visualization.
+- ⚡ Fun fact: I love walking a lot when traveling!
 
-- ✍️ &nbsp; Pursuing data scientist as hobbies/side hustles.
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Python | SQL | R | Tableau | PowerBI
-
-- 🌐 &nbsp; Market Intelligence | Data Science | Business Analytics |
 <hr>
 
-<br/><br/>
-[![Elsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elsa1998&show_icons=true)](https://github.com/elsa1998)
-<br/>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<!--
+```javascript
+const elsa = {
+  pronouns: "she" | "her"
+  Tools: [Python, SQL, R, Tableau, VBA, PowerBI, Tableau],
+  Techniques: {         Exploratory Analysis: "Custering", "Association Rule Mining",
+                        Predictive Modeling: "KNN", "Decision Tree",
+                        Statistical Analysis: "A/B testing",
+                        Machine Learning: "SVM", "Recommendation system", "Neural Network"
+                      },
+ Output: "I am a data scientist focus on marketing intelligence and product!"
+}
+```
 
-
---> This github is my attempt to share my projects.
-
-- 🔭 &nbsp; I’m currently working on Carlson Analytics Lab
-- 🌱 I’m currently learning Busienss Analytics
-- 👯 I’m looking to collaborate on Machine Learning, Data Visualization & Business Intelligence
-- 🤔 I’m looking for help with how to become a 
-- 💬 Ask me about: My experience as analyst/consultant
-- 📫 How to reach me: https://www.linkedin.com/in/yenyunchien/
-- 😄 Pronouns: She/Hers/Her
-- ⚡ Fun fact: I love walking a lot when traveling!
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 ⭐️ From [@elsayen](https://github.com/elsa1998)
