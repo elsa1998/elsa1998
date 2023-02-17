@@ -17,7 +17,7 @@
 ```javascript
 const elsa = {
   pronouns: "she" | "her"
-  Tools: [Python, SQL, R, Tableau, VBA, PowerBI, Tableau],
+  Tools: [Python, SQL, R, Tableau, PowerBI, VBA, AWS, Spark],
   Techniques: {Exploratory_Analysis: "Custering", "Association Rule Mining",
                Predictive_Modeling: "KNN", "Decision Tree",
                Statistical_Analysis: "A/B testing",
