@@ -1,5 +1,6 @@
 <h2> Hi👋, I'm Elsa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://giphy.com/embed/RkX2zcpO79EAf82ESl.gif" width="230">
+<iframe src="https://giphy.com/embed/kDZ03lBmv1EouCXmh6" width="320" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pictarine-photos-pictarine-picta-kDZ03lBmv1EouCXmh6">via GIPHY</a></p>
+
 
 </em></p>
 
