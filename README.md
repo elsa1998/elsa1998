@@ -1,5 +1,4 @@
 <h2> Hi👋, I'm Elsa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/l3nWrncF7S6w3htGU/giphy.gif" width="230">
 </em></p>
 
 [![Linkedin: elsa](https://img.shields.io/badge/-elsayen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yenyunchien/)](https://www.linkedin.com/in/yenyunchien/)
