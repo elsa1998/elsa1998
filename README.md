@@ -21,6 +21,12 @@
 - 🌐 &nbsp; Market Intelligence | Data Science | Business Analytics |
 <hr>
 
+<br/><br/>
+[![Elsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elsa1998&show_icons=true)](https://github.com/elsa1998)
+
+<br/>
+
+
 <!--
 
 
