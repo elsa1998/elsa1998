@@ -5,17 +5,14 @@
 [![Linkedin: elsa](https://img.shields.io/badge/-elsayen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yenyunchien/)](https://www.linkedin.com/in/yenyunchien/)
 [![GitHub elsa](https://img.shields.io/github/followers/elsa1998?label=follow&style=social)](https://github.com/elsa1998)
 
-<!--
-
 - 🌱 I am passion about communication and solving business problems.
-
 - 🎓 Master's degree in Business Analytics and Bachelor's degree in Statistics
-
 - ⚡ Fun fact: I love walking a lot when traveling!
 
 <hr>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
 
 ```javascript
 const elsa = {
