@@ -1,6 +1,5 @@
 <h2> Hi👋, I'm Elsa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src='https://giphy.com/stickers/working-laptop-work-from-home-RkX2zcpO79EAf82ESl.gif' width="230">
-
+<img align='right' src="https://giphy.com/embed/RkX2zcpO79EAf82ESl" width="230" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/working-laptop-work-from-home-RkX2zcpO79EAf82ESl">via GIPHY</a></p>
 
 </em></p>
 
