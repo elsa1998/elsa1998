@@ -1,5 +1,6 @@
-<h2> Hi👋, I'm Elsa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<img src='https://giphy.com/stickers/working-laptop-work-from-home-RkX2zcpO79EAf82ESl.gif' width="60"></h2>
+<h2> Hi👋, I'm Elsa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src='https://giphy.com/stickers/working-laptop-work-from-home-RkX2zcpO79EAf82ESl.gif' width="230">
+
 
 </em></p>
 
@@ -32,6 +33,5 @@ const elsa = {
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Nice to connect with you!</b>:)</em>
-
----
 ⭐️ From [@elsayen](https://github.com/elsa1998)
+---
