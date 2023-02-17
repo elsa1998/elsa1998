@@ -1,6 +1,4 @@
-### Hi there 👋<h2> I'm Elsa</h2>
-
-<h3> 👨🏻•💻 About Me </h3>
+👋<h2> Hi, I'm Elsa</h2>
 
 </em></p>
 
