@@ -28,12 +28,9 @@
 
 <br/><br/>
 [![Elsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elsa1998&show_icons=true)](https://github.com/elsa1998)
-
 <br/>
 
 <!--
-
-
 
 
 --> This github is my attempt to share my projects.
@@ -46,3 +43,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/yenyunchien/
 - 😄 Pronouns: She/Hers/Her
 - ⚡ Fun fact: I love walking a lot when traveling!
+
+---
+⭐️ From [@elsayen](https://github.com/elsa1998)
