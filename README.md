@@ -2,6 +2,11 @@
 
 <h3> 👨🏻•💻 About Me </h3>
 
+</em></p>
+
+[![Linkedin: elsa](https://img.shields.io/badge/-elsayen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yenyunchien/)](https://www.linkedin.com/in/yenyunchien/)
+[![GitHub elsa](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/elsa1998)
+
 <!--
 **elsa1998/elsa1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?elsa1998=anuraghazra&show_icons=true&theme=radical)
