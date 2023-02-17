@@ -1,9 +1,12 @@
-<h2> Hi👋, I'm Elsa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi👋, I'm Elsa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<img src='https://giphy.com/stickers/working-laptop-work-from-home-RkX2zcpO79EAf82ESl.gif' width="60"></h2>
 
 </em></p>
 
 [![Linkedin: elsa](https://img.shields.io/badge/-elsayen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yenyunchien/)](https://www.linkedin.com/in/yenyunchien/)
 [![GitHub elsa](https://img.shields.io/github/followers/elsa1998?label=follow&style=social)](https://github.com/elsa1998)
+
+<!--
 
 - 🌱 I am passion about communication and solving business problems.
 
@@ -11,22 +14,24 @@
 
 - ⚡ Fun fact: I love walking a lot when traveling!
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<hr>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> More about me...  
 
 ```javascript
 const elsa = {
   pronouns: "she" | "her"
   Tools: [Python, SQL, R, Tableau, VBA, PowerBI, Tableau],
-  Techniques: {         Exploratory Analysis: "Custering", "Association Rule Mining",
-                        Predictive Modeling: "KNN", "Decision Tree",
-                        Statistical Analysis: "A/B testing",
-                        Machine Learning: "SVM", "Recommendation system", "Neural Network"
+  Techniques: {Exploratory_Analysis: "Custering", "Association Rule Mining",
+               Predictive_Modeling: "KNN", "Decision Tree",
+               Statistical_Analysis: "A/B testing",
+                Machine_Learning: "SVM", "Recommendation system", "Neural Network"
                       },
  Output: "I am a data scientist focus on marketing intelligence and product!"
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Nice to connect with you!</b>:)</em>
 
 ---
 ⭐️ From [@elsayen](https://github.com/elsa1998)
